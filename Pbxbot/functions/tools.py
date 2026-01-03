@@ -6,8 +6,8 @@ import shlex
 import shutil
 import time
 
-from git import Repo
-from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
+#from git import Repo
+#from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 from pyrogram.types import Message
 
 from Pbxbot.core import Config, Symbols
