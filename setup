@@ -81,4 +81,4 @@ clear
 pprint "\n\nUSERBOT setup completed successfully! ✅\n" "cgreen"
 pprint "\nYour .env file has been created."
 pprint "\nEdit anytime using: nano .env"
-pprint "\nStart your userbot using: bash start.sh or python3 main.py\n\n"
+pprint "\nStart your userbot using: bash chmod +x ./start.sh && ./start.sh\n\n"
