@@ -18,7 +18,6 @@ motor
 pillow
 psutil
 pyroaddon
-pyrogram
 pySmartDL
 python-dotenv
 pytz
@@ -31,3 +30,4 @@ Unidecode
 wikipedia
 py-tgcalls
 yt-dlp
+kurigram>=2.2.13
